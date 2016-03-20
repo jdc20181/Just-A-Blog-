@@ -10,6 +10,4 @@ Templates are licensed under a different license!
 
 You can use Just-A-Blog for any project! Just don't be selling Just-A-Blog, it wasn't worked on hard for it to be sold!
 
-#Built with Slim
 
-Built using the Slim Framework (https://github.com/slimphp/Slim) it is licensed under the MIT License.
